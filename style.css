@@ -1,11 +1,23 @@
 *{
-margin: 64;
-padding: 64;}
+margin: 0;
+padding: o;
+}
 .cabecalho{background-color: rgb(255, 0, 0);
 display: flex;
-justify-content: space-around;}
-.cabecalho-imagem{width: 50%;}
- .cabecalho-lista de itens{ 
+justify-content: space-around;
+ padding: 24px 0;
+}
+.cabecalho-imagem
+{
+    width: 50%;
+}
+
+ li
+ { 
  display: inline-block;
 margin: 0 16px;
+padding: 68px 0;
+}
+h1{
+    
 }
