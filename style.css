@@ -2,7 +2,7 @@
 margin: 0;
 padding: o;
 }
-.cabecalho{background-color: rgb(255, 0, 0);
+.cabecalho{background-color: rgb(201, 33, 33);
 display: flex;
 justify-content: space-around;
  padding: 24px 0;
@@ -11,13 +11,23 @@ justify-content: space-around;
 {
     width: 50%;
 }
-
  li
  { 
  display: inline-block;
 margin: 0 16px;
 padding: 68px 0;
 }
-h1{
-    
+h1{}
+
+.escola-imagem
+    {width: 50%;
+    }
+.escola{
+    background-image: linear-gradient(rgb(197, 19, 19),rgb(92, 50, 50));
+color: rgb(23, 29, 34);
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
 }
+
